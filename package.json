@@ -1,0 +1,15 @@
+{
+  "name": "event",
+  "version": "0.0.1",
+  "description": "Create `geval` event.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ntran13/event.git"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "dependencies": {
+    "geval": "^2.1.1"
+  }
+}
